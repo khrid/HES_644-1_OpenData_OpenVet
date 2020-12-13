@@ -1,5 +1,6 @@
 <?php
+require_once "inc/init.php";
 
-echo "Welcome from GitHub and test CI from gitlab";
-
+$api = new ApiTelSearch();
+$database = new Database();
 ?>
