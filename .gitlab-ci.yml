@@ -16,7 +16,7 @@ deploy_dev:
   stage: deploy
   script:
     - echo "Deploying to dev.openvet.tk"
-    - scp -r /builds/Khrid/HES_644-1_OpenData_OpenVet/html/* $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$SSH_REMOTE_DIR_DEV
+    - scp -r $CI_PROJECT_DIR/html/* $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$SSH_REMOTE_DIR_DEV
 
   environment:
     name: OpenVet dev
@@ -28,7 +28,7 @@ deploy:
   stage: deploy
   script:
     - echo "Deploying to www.openvet.tk"
-    - scp -r /builds/Khrid/HES_644-1_OpenData_OpenVet/html/* $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$SSH_REMOTE_DIR_PROD
+    - scp -r $CI_PROJECT_DIR/html/* $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$SSH_REMOTE_DIR_PROD
   environment:
     name: OpenVet production
     url: https://www.openvet.tk
