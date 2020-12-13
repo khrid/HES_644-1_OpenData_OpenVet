@@ -1,8 +1,6 @@
 image: alpine
 
 before_script:
-  #- apt-get update
-  #- apt-get install openssh-client git-core -y
   - apk add --update openssh-client bash git
   - eval $(ssh-agent -s)
   - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
@@ -41,4 +39,4 @@ api:
   script:
     - echo "Deploying API keys"
     - echo $API_KEY_TELSEARCH > $CI_PROJECT_DIR/.api_key_telsearch
-    - scp $CI_PROJECT_DIR/.api_key_telsearch $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$SSH_REMOTE_DIR_PROD/../
+    - scp $CI_PROJECT_DIR/.api_key_telsearch $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$API_KEY_LOCATION
