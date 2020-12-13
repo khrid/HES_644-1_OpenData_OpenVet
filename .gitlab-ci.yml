@@ -1,4 +1,4 @@
-image: ubuntu:latest
+image: alpine
 
 before_script:
   - apt-get update
@@ -11,6 +11,7 @@ before_script:
 stages:
  #  - build
   - deploy
+  - api
 
 deploy_dev:
   stage: deploy
@@ -35,7 +36,7 @@ deploy:
     - master 
 
 api:
-  stage: deploy
+  stage: api
   script:
     - echo "Deploying API keys"
     - echo $API_KEY_TELSEARCH > $CI_PROJECT_DIR/.api_key_telsearch
