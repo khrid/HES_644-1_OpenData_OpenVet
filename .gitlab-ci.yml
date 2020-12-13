@@ -16,7 +16,7 @@ deploy_dev:
   stage: deploy
   script:
     - echo "Deploying to dev.openvet.tk"
-    - scp -r $CI_PROJECT_DIR/html/* $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$SSH_REMOTE_DIR_DEV
+    - scp -r $CI_PROJECT_DIR/html/* $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$SSH_REMOTE_DIR_DEV/html
   environment:
     name: OpenVet dev
     url: https://dev.openvet.tk
@@ -27,16 +27,28 @@ deploy:
   stage: deploy
   script:
     - echo "Deploying to www.openvet.tk"
-    - scp -r $CI_PROJECT_DIR/html/* $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$SSH_REMOTE_DIR_PROD
+    - scp -r $CI_PROJECT_DIR/html/* $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$SSH_REMOTE_DIR_PROD/html
   environment:
     name: OpenVet production
     url: https://www.openvet.tk
   only:
     - master 
 
+api_dev:
+  stage: api
+  script:
+    - echo "Deploying API keys"
+    - echo $API_KEY_TELSEARCH > $CI_PROJECT_DIR/.api_key_telsearch
+    - scp $CI_PROJECT_DIR/.api_key_telsearch $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$SSH_REMOTE_DIR_DEV
+  only:
+    - dev
+
+
 api:
   stage: api
   script:
     - echo "Deploying API keys"
     - echo $API_KEY_TELSEARCH > $CI_PROJECT_DIR/.api_key_telsearch
-    - scp $CI_PROJECT_DIR/.api_key_telsearch $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$API_KEY_LOCATION
+    - scp $CI_PROJECT_DIR/.api_key_telsearch $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$SSH_REMOTE_DIR_PROD
+  only:
+    - master 
