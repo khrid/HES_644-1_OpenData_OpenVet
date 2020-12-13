@@ -6,7 +6,7 @@ before_script:
   - eval $(ssh-agent -s)
   - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
   - mkdir -p ~/.ssh && touch ~/.ssh/known_hosts
-  - ssh-keyscan openvet.tk >> ~/.ssh/known_hosts
+  - ssh-keyscan $SSH_PREMOTE_HOST >> ~/.ssh/known_hosts
 
 stages:
  #  - build
@@ -16,6 +16,8 @@ deploy_dev:
   stage: deploy
   script:
     - echo "Deploying to dev.openvet.tk"
+    - scp -r /builds/Khrid/HES_644-1_OpenData_OpenVet/html/* $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$SSH_REMOTE_DIR_DEV
+
   environment:
     name: OpenVet dev
     url: https://dev.openvet.tk
@@ -26,7 +28,7 @@ deploy:
   stage: deploy
   script:
     - echo "Deploying to www.openvet.tk"
-    - scp -r /builds/Khrid/HES_644-1_OpenData_OpenVet/html/* david@openvet.tk:/var/www/openvet.tk/html
+    - scp -r /builds/Khrid/HES_644-1_OpenData_OpenVet/html/* $SSH_REMOTE_USER@$SSH_REMOTE_HOST:$SSH_REMOTE_DIR_PROD
   environment:
     name: OpenVet production
     url: https://www.openvet.tk
