@@ -14,6 +14,7 @@ class Database
         if (strlen($content) > 0) {
             $this->_user = explode("|", $content)[0];
             $this->_passwd = explode("|", $content)[1];
+            echo $this->_user . " / ". $this->_passwd;
             if($_SERVER["HTTP_HOST"] == "localhost") {
                 $this->_dsn = "mysql:host=openvet.tk;dbname=openvet";
             } else {
