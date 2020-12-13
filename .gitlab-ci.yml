@@ -1,7 +1,7 @@
 image: alpine
 
 before_script:
-  - apt-get update
+  #- apt-get update
   #- apt-get install openssh-client git-core -y
   - apk add --update openssh-client bash git
   - eval $(ssh-agent -s)
