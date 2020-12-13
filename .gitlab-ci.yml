@@ -6,7 +6,7 @@ before_script:
   - eval $(ssh-agent -s)
   - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
   - mkdir -p ~/.ssh && touch ~/.ssh/known_hosts
-  - ssh-keyscan $SSH_PREMOTE_HOST >> ~/.ssh/known_hosts
+  - ssh-keyscan $SSH_REMOTE_HOST >> ~/.ssh/known_hosts
 
 stages:
  #  - build
