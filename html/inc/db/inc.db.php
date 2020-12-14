@@ -24,6 +24,7 @@ class Database
             $this->_pdo = new PDO($this->_dsn, $this->_user, $this->_passwd);
             $stmt = $this->_pdo->query("SELECT * FROM test_david");
             echo "<p>Bonjour et bienvenue</p>";
+            echo "<p>Bonjour et bienvenue</p>";
             while ($row = $stmt->fetch()) {
                 echo $row['name']."<br />\n";
             }
