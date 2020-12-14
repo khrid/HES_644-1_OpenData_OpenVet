@@ -12,6 +12,8 @@ class Database
     {
         $content = file_get_contents(self::CONF_LOCATION);
         if (strlen($content) > 0) {
+            // TODO fix trailing \n in gitlab variable
+            $content = str_replace("\n", "", $content) ;
             $this->_user = explode("|", $content)[0];
             $this->_passwd = explode("|", $content)[1];
             if($_SERVER["HTTP_HOST"] == "localhost") {
