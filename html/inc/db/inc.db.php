@@ -21,13 +21,43 @@ class Database
             } else {
                 $this->_dsn = "mysql:host=localhost;dbname=openvet";
             }
+
             $this->_pdo = new PDO($this->_dsn, $this->_user, $this->_passwd);
-            $stmt = $this->_pdo->query("SELECT * FROM test_david");
-            echo "<p>Bonjour et bienvenue</p>";
-            echo "<p>Bonjour et bienvenue</p>";
+            echo "Connected to the database<br />";
+
+            /*$stmt = $this->_pdo->query("SELECT * FROM vet");
             while ($row = $stmt->fetch()) {
-                echo $row['name']."<br />\n";
-            }
+                echo $row['name']." ".$row['subname']."<br />\n";
+            }*/
         }
+    }
+
+    public function insertVet($name, $subname){
+
+        $sql = "INSERT INTO vet (name, subname) VALUES ('$name','$subname')";
+
+        $this->_pdo->query($sql);
+
+        echo "Vet inserted<br />";
+
+    }
+
+    public function clearDatabase(){
+
+        $sql = "DELETE FROM vet";
+
+        $this->_pdo->query($sql);
+
+        echo "Database cleared<br />";
+
+    }
+
+    public function displayAllVets(){
+
+        $stmt = $this->_pdo->query("SELECT * FROM vet");
+        while ($row = $stmt->fetch()) {
+            echo $row['name']." ".$row['subname']."<br />\n";
+        }
+
     }
 }
