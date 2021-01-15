@@ -23,7 +23,7 @@ class Database
             }
 
             $this->_pdo = new PDO($this->_dsn, $this->_user, $this->_passwd);
-            echo "Connected to the database<br />";
+            //echo "Connected to the database<br />";
 
             /*$stmt = $this->_pdo->query("SELECT * FROM vet");
             while ($row = $stmt->fetch()) {
@@ -38,7 +38,7 @@ class Database
 
         $this->_pdo->query($sql);
 
-        echo "Vet inserted<br />";
+        //echo "Vet inserted<br />";
 
     }
 
@@ -48,7 +48,7 @@ class Database
 
         $this->_pdo->query($sql);
 
-        echo "Database cleared<br />";
+        //echo "Database cleared<br />";
 
     }
 
