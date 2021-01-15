@@ -14,8 +14,9 @@ class ApiTelSearch
 
 
     public function insertAllVets(){
-        $map_url_old = "https://tel.search.ch/api/?was=v%C3%A9t%C3%A9rinaire&wo=valais&maxnum=200&key=".$this->_api_key; // does not work
-        $map_url = "https://tel.search.ch/api/?was=v%C3%A9t%C3%A9rinaire&wo=valais&maxnum=200&key=343b8735ba6d3de3bd71269774e165f3";
+        // old key --> 343b8735ba6d3de3bd71269774e165f3
+        $map_url = "https://tel.search.ch/api/?was=v%C3%A9t%C3%A9rinaire&wo=valais&maxnum=200&key=04e22ef45a6535ce713a000d0550bae4";
+        //$map_url =  "../../data.xml";
 
         if (($response_xml_data = file_get_contents($map_url))===false){
             echo "Error fetching XML\n";
@@ -31,7 +32,12 @@ class ApiTelSearch
                 //print_r($data);
                 $database = new Database();
                 foreach ($data->entry as $entry){
-                    $database->insertVet($entry->title,"");
+                    $email = "--";
+                    if(sizeof($entry->xpath("tel:extra[@type='email']"))>0) {
+                        $email = rtrim(($entry->xpath("tel:extra[@type='email']")[0]), '*');
+                    }
+                    $database->insertVet($entry->xpath('tel:name')[0],$entry->xpath('tel:street')[0]." ".$entry->xpath('tel:streetno')[0],
+                        $entry->xpath('tel:zip')[0]." ".$entry->xpath('tel:city')[0],$entry->xpath('tel:phone')[0],$email);
                 }
             }
         }
