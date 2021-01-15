@@ -1,9 +1,9 @@
 <?php
 require_once "inc/init.php";
 $database = new Database();
-$api = new ApiTelSearch();
-$database->clearDatabase();
-$api->insertAllVets();
+//$api = new ApiTelSearch();
+//$database->clearDatabase();
+//$api->insertAllVets();
 ?>
 
 <!DOCTYPE html>
