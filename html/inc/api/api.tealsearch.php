@@ -34,11 +34,15 @@ class ApiTelSearch
                 foreach ($data->entry as $entry){
                     $isVet = false;
                     $categories = $entry->xpath('tel:category');
+
+                    //echo $entry->title." | ";
                     for($i = 0; $i < sizeof($categories); $i++){
-                        if(strpos(strtoupper($categories[$i]), "TIER")>=0){
+                        //echo strtoupper($categories[$i]).",(".is_int(strpos(strtoupper($categories[$i]), "TIER")).")";
+                        if(is_int(strpos(strtoupper($categories[$i]), "TIER"))){
                             $isVet = true;
                         }
                     }
+                    //echo "<br/><br/>";
 
                     if($isVet){
                         $email = "--";
