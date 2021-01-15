@@ -5,6 +5,7 @@ $database = new Database();
 //$database->clearDatabase();
 //$api->insertAllVets();
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 

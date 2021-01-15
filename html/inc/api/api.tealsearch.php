@@ -15,7 +15,8 @@ class ApiTelSearch
 
     public function insertAllVets(){
         // old key --> 343b8735ba6d3de3bd71269774e165f3
-        $map_url = "https://tel.search.ch/api/?was=v%C3%A9t%C3%A9rinaire&wo=valais&maxnum=200&key=04e22ef45a6535ce713a000d0550bae4";
+        // old key --> 04e22ef45a6535ce713a000d0550bae4
+        $map_url = "https://tel.search.ch/api/?was=v%C3%A9t%C3%A9rinaire&wo=valais&maxnum=200&key=7608ea265ec632dbb844da39a40dfa6e";
         //$map_url =  "../../data.xml";
 
         if (($response_xml_data = file_get_contents($map_url))===false){
@@ -29,15 +30,24 @@ class ApiTelSearch
                     echo "\t", $error->message;
                 }
             } else {
-                //print_r($data);
                 $database = new Database();
                 foreach ($data->entry as $entry){
-                    $email = "--";
-                    if(sizeof($entry->xpath("tel:extra[@type='email']"))>0) {
-                        $email = rtrim(($entry->xpath("tel:extra[@type='email']")[0]), '*');
+                    $isVet = false;
+                    $categories = $entry->xpath('tel:category');
+                    for($i = 0; $i < sizeof($categories); $i++){
+                        if(strpos(strtoupper($categories[$i]), "TIER")>=0){
+                            $isVet = true;
+                        }
                     }
-                    $database->insertVet($entry->xpath('tel:name')[0],$entry->xpath('tel:street')[0]." ".$entry->xpath('tel:streetno')[0],
-                        $entry->xpath('tel:zip')[0]." ".$entry->xpath('tel:city')[0],$entry->xpath('tel:phone')[0],$email);
+
+                    if($isVet){
+                        $email = "--";
+                        if(sizeof($entry->xpath("tel:extra[@type='email']"))>0) {
+                            $email = rtrim(($entry->xpath("tel:extra[@type='email']")[0]), '*');
+                        }
+                        $database->insertVet($entry->title,$entry->xpath('tel:street')[0]." ".$entry->xpath('tel:streetno')[0],
+                            $entry->xpath('tel:zip')[0]." ".$entry->xpath('tel:city')[0],$entry->xpath('tel:phone')[0],$email);
+                    }
                 }
             }
         }
