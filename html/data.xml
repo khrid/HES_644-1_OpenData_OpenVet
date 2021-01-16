@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:tel="http://tel.search.ch/api/spec/result/1.0/">
+  <id>https://tel.search.ch/api/343b8735ba6d3de3bd71269774e165f3/c90e55ea53fa51a6528078c708bd404b</id>
+  <title type="text">tel.search.ch API Search Results</title>
+  <generator version="1.0" uri="https://tel.search.ch">tel.search.ch</generator>
+  <updated>2020-12-14T03:00:00Z</updated>
+  <link href="http://tel.search.ch/result?was=v%C3%A9t%C3%A9rinaire&amp;wo=valais" rel="alternate" type="text/html" />
+  <link href="http://tel.search.ch/api/?was=v%C3%A9t%C3%A9rinaire&amp;wo=valais&amp;key=343b8735ba6d3de3bd71269774e165f3" type="application/atom+xml" rel="self" />
+  <openSearch:totalResults>41</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>200</openSearch:itemsPerPage>
+  <openSearch:Query role="request" searchTerms="vétérinaire valais" startPage="1"></openSearch:Query>
+  <openSearch:Image height="1" width="1" type="image/gif">https://www.search.ch/audit/CP/tel/fr/api</openSearch:Image>
+  <entry>
+    <id>urn:uuid:053a9374602568a2</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">AIUTO Cabinet vétérinaire Sàrl</title>
+    <content type="text">AIUTO Cabinet vétérinaire Sàrl
+    J. Moret et J. Gertsch
+    animaux, magasin pharmacie, urgence
+    Rue de l'Autoroute 49
+    1907 Saxon VS
+    *027 744 25 28</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/saxon/rue-de-lautoroute-49/aiuto-cabinet-veterinaire-sarl" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/AIUTO-Cabinet-veterinaire-Sarl.vcf?key=053a9374602568a2" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=053a9374602568a2" rel="edit" type="text/html" />
+    <tel:pos>1</tel:pos>
+    <tel:id>053a9374602568a2</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>AIUTO Cabinet vétérinaire Sàrl</tel:name>
+    <tel:subname>J. Moret et J. Gertsch</tel:subname>
+    <tel:occupation>animaux, magasin pharmacie, urgence</tel:occupation>
+    <tel:street>Rue de l'Autoroute</tel:street>
+    <tel:streetno>49</tel:streetno>
+    <tel:zip>1907</tel:zip>
+    <tel:city>Saxon</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:category>Animaux, articles pour</tel:category>
+    <tel:category>Service vétérinaire d'urgence</tel:category>
+    <tel:category>Ostéopathie pour animaux</tel:category>
+    <tel:phone>+41277442528</tel:phone>
+    <tel:extra type="email">veto_saxon@yahoo.fr*</tel:extra>
+    <tel:extra type="website">http://www.aiuto-veto.ch</tel:extra>
+    <tel:extra type="website">https://www.facebook.com/associationpourlesanimauxsansfamille?fref=mentions</tel:extra>
+    <tel:extra type="website">Notre pharmacie / magasin : http://www.aiuto-veto.ch/index.php?page=pharmacie-presentation</tel:extra>
+    <tel:businesslink>http://tel.search.ch/saxon/rue-de-lautoroute-49/aiuto-cabinet-veterinaire-sarl</tel:businesslink>
+  </entry>
+  <entry>
+    <id>urn:uuid:6de9a7a5db3efa2f</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Cabinet vétérinaire Les Berges du Rhône SA</title>
+    <content type="text">Cabinet vétérinaire Les Berges du Rhône SA
+    Drs, animaux de compagnie
+    Route de Vissigen 36
+    1950 Sion VS
+    *027 205 66 55</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/sion/route-de-vissigen-36/cabinet-veterinaire-les-berges-du-rhone-sa" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Cabinet-veterinaire-Les-Berges-du-Rhone-SA.vcf?key=6de9a7a5db3efa2f" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=6de9a7a5db3efa2f" rel="edit" type="text/html" />
+    <tel:pos>2</tel:pos>
+    <tel:id>6de9a7a5db3efa2f</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Cabinet vétérinaire Les Berges du Rhône SA</tel:name>
+    <tel:occupation>Drs, animaux de compagnie</tel:occupation>
+    <tel:street>Route de Vissigen</tel:street>
+    <tel:streetno>36</tel:streetno>
+    <tel:zip>1950</tel:zip>
+    <tel:city>Sion</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:category>Ostéopathie pour animaux</tel:category>
+    <tel:category>Physiothérapie</tel:category>
+    <tel:phone>+41272056655</tel:phone>
+    <tel:extra type="Fax">+41272056656</tel:extra>
+    <tel:extra type="Urgences Sion - Sierre - Conthey" numberpostfix="CHF 2.--/min">+41900502502</tel:extra>
+    <tel:extra type="Urgences Martigny - Riddes - Monthey" numberpostfix="CHF 2.--/min">+41900506506</tel:extra>
+    <tel:extra type="email">info@vetvissigen.ch*</tel:extra>
+    <tel:extra type="website">http://www.vetvissigen.ch</tel:extra>
+    <tel:businesslink>http://tel.search.ch/sion/route-de-vissigen-36/cabinet-veterinaire-les-berges-du-rhone-sa</tel:businesslink>
+  </entry>
+  <entry>
+    <id>urn:uuid:a951f27d53efb2ff</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Pratique Vétérinaire Valesia SA</title>
+    <content type="text">Pratique Vétérinaire Valesia SA
+    Drs médecin vétérinaire Caroline Saillen, Vincent Théodoloz et Lucien Fournier
+    Animaux de compagnie
+    Rue du Canal 16
+    1908 Riddes VS
+    *027 306 76 76</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/riddes/rue-du-canal-16/pratique-veterinaire-valesia-sa" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Pratique-Veterinaire-Valesia-SA.vcf?key=a951f27d53efb2ff" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=a951f27d53efb2ff" rel="edit" type="text/html" />
+    <tel:pos>3</tel:pos>
+    <tel:id>a951f27d53efb2ff</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Pratique Vétérinaire Valesia SA</tel:name>
+    <tel:subname>Drs médecin vétérinaire Caroline Saillen, Vincent Théodoloz et Lucien Fournier</tel:subname>
+    <tel:occupation>Animaux de compagnie</tel:occupation>
+    <tel:street>Rue du Canal</tel:street>
+    <tel:streetno>16</tel:streetno>
+    <tel:zip>1908</tel:zip>
+    <tel:city>Riddes</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:category>Service d'Urgence</tel:category>
+    <tel:category>Service vétérinaire d'urgence</tel:category>
+    <tel:category>Animaux domestiques</tel:category>
+    <tel:category>Soins d'animaux</tel:category>
+    <tel:phone>+41273067676</tel:phone>
+    <tel:extra type="Animaux de rente et chevaux">+41788592299</tel:extra>
+    <tel:extra type="email">info@valesia-vet.ch*</tel:extra>
+    <tel:extra type="website">https://www.valesia-vet.ch</tel:extra>
+    <tel:extra type="website">https://www.facebook.com/Pratique-v%C3%A9t%C3%A9rinaire-Valesia-SA-274429082763959</tel:extra>
+    <tel:extra type="website">https://www.instagram.com/explore/locations/274429082763959/pratique-veterinaire-valesia-sa?hl=fr</tel:extra>
+    <tel:businesslink>http://tel.search.ch/riddes/rue-du-canal-16/pratique-veterinaire-valesia-sa</tel:businesslink>
+  </entry>
+  <entry>
+    <id>urn:uuid:c7a678ef7d9591cf</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Daves Christine</title>
+    <content type="text">Daves Christine
+    méd. vétérinaire
+    Chemin du Milieu 50
+    1920 Martigny VS
+    *027 722 08 66</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/martigny/chemin-du-milieu-50/christine-daves-2" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Daves.vcf?key=c7a678ef7d9591cf" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=c7a678ef7d9591cf" rel="edit" type="text/html" />
+    <tel:pos>4</tel:pos>
+    <tel:id>c7a678ef7d9591cf</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Daves</tel:name>
+    <tel:firstname>Christine</tel:firstname>
+    <tel:occupation>méd. vétérinaire</tel:occupation>
+    <tel:street>Chemin du Milieu</tel:street>
+    <tel:streetno>50</tel:streetno>
+    <tel:zip>1920</tel:zip>
+    <tel:city>Martigny</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:category>Alimentation animale</tel:category>
+    <tel:category>Ostéopathie pour animaux</tel:category>
+    <tel:phone>+41277220866</tel:phone>
+    <tel:extra type="website">https://www.vet-daves.ch</tel:extra>
+    <tel:extra type="website">https://www.vet-daves.ch/</tel:extra>
+    <tel:businesslink>http://tel.search.ch/martigny/chemin-du-milieu-50/christine-daves-2</tel:businesslink>
+  </entry>
+  <entry>
+    <id>urn:uuid:f3447f41253ed947</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Kull Martin und Karin</title>
+    <content type="text">Kull Martin und Karin
+    Dres. med. vet. Gross- und Kleintierpraxis
+    3995 Ernen VS
+    *027 971 40 44</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/ernen/-/martin-und-karin-kull-2" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Kull.vcf?key=f3447f41253ed947" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=f3447f41253ed947" rel="edit" type="text/html" />
+    <tel:pos>5</tel:pos>
+    <tel:id>f3447f41253ed947</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Kull</tel:name>
+    <tel:firstname>Martin und Karin</tel:firstname>
+    <tel:occupation>Dres. med. vet. Gross- und Kleintierpraxis</tel:occupation>
+    <tel:zip>3995</tel:zip>
+    <tel:city>Ernen</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41279714044</tel:phone>
+    <tel:extra type="Künstliche Befruchtung">+41279714023</tel:extra>
+    <tel:extra type="Fax">+41279714025</tel:extra>
+    <tel:extra type="email">info@praxis-kull.ch*</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:2dd4c0aa554ed9a8</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Besse Anne-Françoise</title>
+    <content type="text">Besse Anne-Françoise
+    cabinet vétérinaire
+    Rue du Léman 35
+    1920 Martigny VS
+    *027 722 06 12</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/martigny/rue-du-leman-35/anne-francoise-besse-3" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Besse.vcf?key=2dd4c0aa554ed9a8" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=2dd4c0aa554ed9a8" rel="edit" type="text/html" />
+    <tel:pos>6</tel:pos>
+    <tel:id>2dd4c0aa554ed9a8</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Besse</tel:name>
+    <tel:firstname>Anne-Françoise</tel:firstname>
+    <tel:subname>cabinet vétérinaire</tel:subname>
+    <tel:street>Rue du Léman</tel:street>
+    <tel:streetno>35</tel:streetno>
+    <tel:zip>1920</tel:zip>
+    <tel:city>Martigny</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41277220612</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:78e4168fb3fa3289</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Cabinet vétérinaire</title>
+    <content type="text">Cabinet vétérinaire
+    Rue du Léman 35
+    1920 Martigny VS
+    *027 722 06 12</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/martigny/rue-du-leman-35/cabinet-veterinaire" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Cabinet-veterinaire.vcf?key=78e4168fb3fa3289" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=78e4168fb3fa3289" rel="edit" type="text/html" />
+    <tel:pos>7</tel:pos>
+    <tel:id>78e4168fb3fa3289</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Cabinet vétérinaire</tel:name>
+    <tel:street>Rue du Léman</tel:street>
+    <tel:streetno>35</tel:streetno>
+    <tel:zip>1920</tel:zip>
+    <tel:city>Martigny</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:phone>+41277220612</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:1a58d00f8dbb22a2</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Wenger Sarah</title>
+    <content type="text">Wenger Sarah
+    VetchezVous
+    déplacements à domicile
+    Rue de l'Alambic 32
+    1958 Uvrier VS
+    *079 961 97 63</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/uvrier/rue-de-lalambic-32/wenger-sarah" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Wenger-Sarah.vcf?key=1a58d00f8dbb22a2" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=1a58d00f8dbb22a2" rel="edit" type="text/html" />
+    <tel:pos>8</tel:pos>
+    <tel:id>1a58d00f8dbb22a2</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Wenger Sarah</tel:name>
+    <tel:subname>VetchezVous</tel:subname>
+    <tel:occupation>déplacements à domicile</tel:occupation>
+    <tel:street>Rue de l'Alambic</tel:street>
+    <tel:streetno>32</tel:streetno>
+    <tel:zip>1958</tel:zip>
+    <tel:city>Uvrier</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41799619763</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:f3f97dcfef50551e</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">ANIMAL Kleintierpraxis</title>
+    <content type="text">ANIMAL Kleintierpraxis
+    Geissbühler-Vogel Daniela und Urs und Spagnoli Susanne (-Hartmann)
+    Dres. med. vet. FVH für Kleintiere
+    Kantonsstrasse 41c
+    3930 Visp VS
+    027 945 12 00</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/visp/kantonsstrasse-41c/animal-kleintierpraxis" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/ANIMAL-Kleintierpraxis.vcf?key=f3f97dcfef50551e" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=f3f97dcfef50551e" rel="edit" type="text/html" />
+    <tel:pos>9</tel:pos>
+    <tel:id>f3f97dcfef50551e</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>ANIMAL Kleintierpraxis</tel:name>
+    <tel:subname>Geissbühler-Vogel Daniela und Urs und Spagnoli Susanne (-Hartmann)</tel:subname>
+    <tel:occupation>Dres. med. vet. FVH für Kleintiere</tel:occupation>
+    <tel:street>Kantonsstrasse</tel:street>
+    <tel:streetno>41c</tel:streetno>
+    <tel:zip>3930</tel:zip>
+    <tel:city>Visp</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41279451200</tel:phone>
+    <tel:extra type="Fax">+41279451201</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:be234af8ff57b9d0</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Cabinet vétérinaire de l'Europe SA</title>
+    <content type="text">Cabinet vétérinaire de l'Europe SA
+    Dewarrat André
+    Med.Vétérinaire
+    Avenue de l'Europe 64
+    1870 Monthey VS
+    024 472 42 32</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/detail/be234af8ff57b9d0" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Cabinet-veterinaire-de-lEurope-SA.vcf?key=be234af8ff57b9d0" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=be234af8ff57b9d0" rel="edit" type="text/html" />
+    <tel:pos>10</tel:pos>
+    <tel:id>be234af8ff57b9d0</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Cabinet vétérinaire de l'Europe SA</tel:name>
+    <tel:subname>Dewarrat André</tel:subname>
+    <tel:occupation>Med.Vétérinaire</tel:occupation>
+    <tel:street>Avenue de l'Europe</tel:street>
+    <tel:streetno>64</tel:streetno>
+    <tel:zip>1870</tel:zip>
+    <tel:city>Monthey</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41244724232</tel:phone>
+    <tel:extra type="Fax">+41244724238</tel:extra>
+    <tel:extra type="Urgences Uniquement Mobile">+41796234534</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:1d995c093eeb0e2a</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Cabinet vétérinaire Lindén Sàrl</title>
+    <content type="text">Cabinet vétérinaire Lindén Sàrl
+    Léonore Lindén
+    méd. vétérinaire
+    Rue de la Cotsette 3
+    1950 Sion VS
+    *027 323 82 82</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/sion/rue-de-la-cotsette-3/cabinet-veterinaire-linden-sarl" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Cabinet-veterinaire-Linden-Sarl.vcf?key=1d995c093eeb0e2a" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=1d995c093eeb0e2a" rel="edit" type="text/html" />
+    <tel:pos>11</tel:pos>
+    <tel:id>1d995c093eeb0e2a</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Cabinet vétérinaire Lindén Sàrl</tel:name>
+    <tel:subname>Léonore Lindén</tel:subname>
+    <tel:occupation>méd. vétérinaire</tel:occupation>
+    <tel:street>Rue de la Cotsette</tel:street>
+    <tel:streetno>3</tel:streetno>
+    <tel:zip>1950</tel:zip>
+    <tel:city>Sion</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:category>Clinique pour animaux</tel:category>
+    <tel:phone>+41273238282</tel:phone>
+    <tel:extra type="Fax">+41273238230</tel:extra>
+    <tel:extra type="email">vet.linden@bluewin.ch*</tel:extra>
+    <tel:extra type="website">http://www.veterinaire-linden.ch</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:0730641d95450e6a</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Tierarztpraxis ARCHE</title>
+    <content type="text">Tierarztpraxis ARCHE
+    Matthias Dirren
+    Dr. med. vet.
+    Kirchstrasse 7
+    3952 Susten VS
+    *027 473 20 66</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/susten/kirchstrasse-7/tierarztpraxis-arche" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Tierarztpraxis-ARCHE.vcf?key=0730641d95450e6a" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=0730641d95450e6a" rel="edit" type="text/html" />
+    <tel:pos>12</tel:pos>
+    <tel:id>0730641d95450e6a</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Tierarztpraxis ARCHE</tel:name>
+    <tel:subname>Matthias Dirren</tel:subname>
+    <tel:occupation>Dr. med. vet.</tel:occupation>
+    <tel:street>Kirchstrasse</tel:street>
+    <tel:streetno>7</tel:streetno>
+    <tel:zip>3952</tel:zip>
+    <tel:city>Susten</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41274732066</tel:phone>
+    <tel:extra type="Fax">+41274736866</tel:extra>
+    <tel:extra type="email">info@Tierarztpraxis-Arche.ch</tel:extra>
+    <tel:extra type="website">http://www.tierarztpraxis-arche.ch</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:a0bfe87282f52a02</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Cabinet vétérinaire de la Forge</title>
+    <content type="text">Cabinet vétérinaire de la Forge
+    Robert Bruno
+    Route d'Etiez 16
+    1941 Vollèges VS
+    *027 785 25 25</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/volleges/route-detiez-16/cabinet-veterinaire-de-la-forge" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Cabinet-veterinaire-de-la-Forge.vcf?key=a0bfe87282f52a02" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=a0bfe87282f52a02" rel="edit" type="text/html" />
+    <tel:pos>13</tel:pos>
+    <tel:id>a0bfe87282f52a02</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Cabinet vétérinaire de la Forge</tel:name>
+    <tel:subname>Robert Bruno</tel:subname>
+    <tel:street>Route d'Etiez</tel:street>
+    <tel:streetno>16</tel:streetno>
+    <tel:zip>1941</tel:zip>
+    <tel:city>Vollèges</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:phone>+41277852525</tel:phone>
+    <tel:extra type="Fax">+41277852530</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:2e33372f9c40b744</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Cabinet Vétérinaire et Ostéopathie Cat'Pattes &amp; Cie Sàrl</title>
+    <content type="text">Cabinet Vétérinaire et Ostéopathie Cat'Pattes &amp; Cie Sàrl
+    Villiger Walter
+    Avenue du Simplon 44
+    1870 Monthey VS
+    *024 471 74 68</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/monthey/avenue-du-simplon-44/cabinet-veterinaire-et-osteopathie-catpattes-cie-sarl" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Cabinet-Veterinaire-et-Osteopathie-CatPattes--Cie-Sarl.vcf?key=2e33372f9c40b744" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=2e33372f9c40b744" rel="edit" type="text/html" />
+    <tel:pos>14</tel:pos>
+    <tel:id>2e33372f9c40b744</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Cabinet Vétérinaire et Ostéopathie Cat'Pattes &amp; Cie Sàrl</tel:name>
+    <tel:subname>Villiger Walter</tel:subname>
+    <tel:street>Avenue du Simplon</tel:street>
+    <tel:streetno>44</tel:streetno>
+    <tel:zip>1870</tel:zip>
+    <tel:city>Monthey</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:phone>+41244717468</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:27e21e4c2877ad7d</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Tierarztpraxis</title>
+    <content type="text">Tierarztpraxis
+    Ritler Anton
+    Kiesweg 2
+    3904 Naters VS
+    027 923 31 00</content>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/naters/kiesweg-2/tierarztpraxis-2" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Tierarztpraxis.vcf?key=27e21e4c2877ad7d" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=27e21e4c2877ad7d" rel="edit" type="text/html" />
+    <tel:pos>15</tel:pos>
+    <tel:id>27e21e4c2877ad7d</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Tierarztpraxis</tel:name>
+    <tel:subname>Ritler Anton</tel:subname>
+    <tel:street>Kiesweg</tel:street>
+    <tel:streetno>2</tel:streetno>
+    <tel:zip>3904</tel:zip>
+    <tel:city>Naters</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41279233100</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:94a1e440a832284c</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Morend Christophe</title>
+    <content type="text">Morend Christophe
+    vétérinaire
+    Ruelle du Collège 2
+    1963 Vétroz VS
+    *027 346 57 66</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/vetroz/ruelle-du-college-2/christophe-morend" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Morend.vcf?key=94a1e440a832284c" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=94a1e440a832284c" rel="edit" type="text/html" />
+    <tel:pos>16</tel:pos>
+    <tel:id>94a1e440a832284c</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Morend</tel:name>
+    <tel:firstname>Christophe</tel:firstname>
+    <tel:occupation>vétérinaire</tel:occupation>
+    <tel:street>Ruelle du Collège</tel:street>
+    <tel:streetno>2</tel:streetno>
+    <tel:zip>1963</tel:zip>
+    <tel:city>Vétroz</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41273465766</tel:phone>
+    <tel:extra type="Fax">+41273465776</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:13a37da32ed04f00</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Vétérinaire Au-Petit-Chat</title>
+    <content type="text">Vétérinaire Au-Petit-Chat
+    Elvira Schmid
+    Rue du Stade 100
+    1926 Fully VS
+    *027 746 30 30</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/fully/rue-du-stade-100/veterinaire-au-petit-chat" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Veterinaire-Au-Petit-Chat.vcf?key=13a37da32ed04f00" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=13a37da32ed04f00" rel="edit" type="text/html" />
+    <tel:pos>17</tel:pos>
+    <tel:id>13a37da32ed04f00</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Vétérinaire Au-Petit-Chat</tel:name>
+    <tel:subname>Elvira Schmid</tel:subname>
+    <tel:street>Rue du Stade</tel:street>
+    <tel:streetno>100</tel:streetno>
+    <tel:zip>1926</tel:zip>
+    <tel:city>Fully</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41277463030</tel:phone>
+    <tel:extra type="website">http://www.au-petit-chat.ch</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:f8874980f2866bc9</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Kleintierpraxis, Werlen Romaine</title>
+    <content type="text">Kleintierpraxis, Werlen Romaine
+    Kantonsstrasse 132
+    3902 Glis VS
+    *027 927 17 17</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/glis/kantonsstrasse-132/kleintierpraxis-werlen-romaine" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Kleintierpraxis-Werlen-Romaine.vcf?key=f8874980f2866bc9" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=f8874980f2866bc9" rel="edit" type="text/html" />
+    <tel:pos>18</tel:pos>
+    <tel:id>f8874980f2866bc9</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Kleintierpraxis, Werlen Romaine</tel:name>
+    <tel:street>Kantonsstrasse</tel:street>
+    <tel:streetno>132</tel:streetno>
+    <tel:zip>3902</tel:zip>
+    <tel:city>Glis</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41279271717</tel:phone>
+    <tel:extra type="email">kleintierpraxis-werlen@hotmail.com*</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:b4aaf21453269a05</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Service vétérinaire</title>
+    <content type="text">Service vétérinaire
+    Rue du Pré-d'Amédée 2
+    1950 Sion VS
+    027 606 74 50</content>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/sion/rue-du-pre-damedee-2/service-veterinaire" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Service-veterinaire.vcf?key=b4aaf21453269a05" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=b4aaf21453269a05" rel="edit" type="text/html" />
+    <tel:pos>19</tel:pos>
+    <tel:id>b4aaf21453269a05</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Service vétérinaire</tel:name>
+    <tel:org>Etat du Valais &gt; Liste alphabétique:</tel:org>
+    <tel:street>Rue du Pré-d'Amédée</tel:street>
+    <tel:streetno>2</tel:streetno>
+    <tel:zip>1950</tel:zip>
+    <tel:city>Sion</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Administration cantonale</tel:category>
+    <tel:category>Service vétérinaire</tel:category>
+    <tel:phone>+41276067450</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:67dd366bac989e5a</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Vétérinaire cantonal</title>
+    <content type="text">Vétérinaire cantonal
+    Rue du Pré-d'Amédée 2
+    1950 Sion VS
+    027 606 74 50</content>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/sion/rue-du-pre-damedee-2/veterinaire-cantonal" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Veterinaire-cantonal.vcf?key=67dd366bac989e5a" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=67dd366bac989e5a" rel="edit" type="text/html" />
+    <tel:pos>20</tel:pos>
+    <tel:id>67dd366bac989e5a</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Vétérinaire cantonal</tel:name>
+    <tel:street>Rue du Pré-d'Amédée</tel:street>
+    <tel:streetno>2</tel:streetno>
+    <tel:zip>1950</tel:zip>
+    <tel:city>Sion</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Office</tel:category>
+    <tel:phone>+41276067450</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:653558413d090897</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Zufferey Pascal</title>
+    <content type="text">Zufferey Pascal
+    Rue d'Orzival 19
+    3960 Sierre VS
+    *027 456 40 49</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/sierre/rue-dorzival-19/zufferey-pascal" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Zufferey-Pascal.vcf?key=653558413d090897" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=653558413d090897" rel="edit" type="text/html" />
+    <tel:pos>21</tel:pos>
+    <tel:id>653558413d090897</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Zufferey Pascal</tel:name>
+    <tel:street>Rue d'Orzival</tel:street>
+    <tel:streetno>19</tel:streetno>
+    <tel:zip>3960</tel:zip>
+    <tel:city>Sierre</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41274564049</tel:phone>
+    <tel:extra type="Fax">+41274564262</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:8a6711b69bd0aa85</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Lauwers Leen</title>
+    <content type="text">Lauwers Leen
+    vétérinaire
+    Rue des Ecoles 2
+    3965 Chippis VS
+    *079 613 06 01</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/chippis/rue-des-ecoles-2/leen-lauwers-2" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Lauwers.vcf?key=8a6711b69bd0aa85" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=8a6711b69bd0aa85" rel="edit" type="text/html" />
+    <tel:pos>22</tel:pos>
+    <tel:id>8a6711b69bd0aa85</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Lauwers</tel:name>
+    <tel:firstname>Leen</tel:firstname>
+    <tel:occupation>vétérinaire</tel:occupation>
+    <tel:street>Rue des Ecoles</tel:street>
+    <tel:streetno>2</tel:streetno>
+    <tel:zip>3965</tel:zip>
+    <tel:city>Chippis</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41796130601</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:ec46e0408f603cbe</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Grommersch Benoit</title>
+    <content type="text">Grommersch Benoit
+    méd.-vétérinaire
+    Rue de Villa 4
+    3960 Sierre VS
+    027 455 75 80</content>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/sierre/rue-de-villa-4/benoit-grommersch-2" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Grommersch.vcf?key=ec46e0408f603cbe" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=ec46e0408f603cbe" rel="edit" type="text/html" />
+    <tel:pos>23</tel:pos>
+    <tel:id>ec46e0408f603cbe</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Grommersch</tel:name>
+    <tel:firstname>Benoit</tel:firstname>
+    <tel:occupation>méd.-vétérinaire</tel:occupation>
+    <tel:street>Rue de Villa</tel:street>
+    <tel:streetno>4</tel:streetno>
+    <tel:zip>3960</tel:zip>
+    <tel:city>Sierre</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41274557580</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:baab15aa48be9ae4</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Cabinet vétérinaire de Vouvry</title>
+    <content type="text">Cabinet vétérinaire de Vouvry
+    Rue du Bourg-Dernier 15
+    1896 Vouvry VS
+    *024 481 30 30</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/vouvry/rue-du-bourg-dernier-15/cabinet-veterinaire-de-vouvry" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Cabinet-veterinaire-de-Vouvry.vcf?key=baab15aa48be9ae4" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=baab15aa48be9ae4" rel="edit" type="text/html" />
+    <tel:pos>24</tel:pos>
+    <tel:id>baab15aa48be9ae4</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Cabinet vétérinaire de Vouvry</tel:name>
+    <tel:street>Rue du Bourg-Dernier</tel:street>
+    <tel:streetno>15</tel:streetno>
+    <tel:zip>1896</tel:zip>
+    <tel:city>Vouvry</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:category>Produits vétérinaires</tel:category>
+    <tel:category>Service vétérinaire d'urgence</tel:category>
+    <tel:phone>+41244813030</tel:phone>
+    <tel:extra type="email">info@vetvouvry.ch*</tel:extra>
+    <tel:extra type="website">http://www.vetvouvry.ch</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:2627f94439eb1eef</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Cabinet vétérinaire Nathalie Rausis Fellay Sàrl</title>
+    <content type="text">Cabinet vétérinaire Nathalie Rausis Fellay Sàrl
+    Route du Grand-St-Bernard 14
+    1933 Sembrancher VS
+    *027 565 73 00</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/sembrancher/route-du-grand-st-bernard-14/cabinet-veterinaire-nathalie-rausis-fellay-sarl" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Cabinet-veterinaire-Nathalie-Rausis-Fellay-Sarl.vcf?key=2627f94439eb1eef" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=2627f94439eb1eef" rel="edit" type="text/html" />
+    <tel:pos>25</tel:pos>
+    <tel:id>2627f94439eb1eef</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Cabinet vétérinaire Nathalie Rausis Fellay Sàrl</tel:name>
+    <tel:street>Route du Grand-St-Bernard</tel:street>
+    <tel:streetno>14</tel:streetno>
+    <tel:zip>1933</tel:zip>
+    <tel:city>Sembrancher</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:category>Service d'Urgence</tel:category>
+    <tel:phone>+41275657300</tel:phone>
+    <tel:extra type="email">nath.veterinaire@gmail.com</tel:extra>
+    <tel:extra type="website">http://www.nath-veterinaire.ch/fr</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:60cfa3da71dc66c1</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Wintermantel Arno</title>
+    <content type="text">Wintermantel Arno
+    Dr. med. vet. Tierarzt Gross- und Kleintierpraxis
+    Bahnhofplatz 22
+    3922 Stalden VS
+    *027 952 11 30</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/stalden/bahnhofplatz-22/arno-wintermantel" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Wintermantel.vcf?key=60cfa3da71dc66c1" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=60cfa3da71dc66c1" rel="edit" type="text/html" />
+    <tel:pos>26</tel:pos>
+    <tel:id>60cfa3da71dc66c1</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Wintermantel</tel:name>
+    <tel:firstname>Arno</tel:firstname>
+    <tel:occupation>Dr. med. vet. Tierarzt Gross- und Kleintierpraxis</tel:occupation>
+    <tel:street>Bahnhofplatz</tel:street>
+    <tel:streetno>22</tel:streetno>
+    <tel:zip>3922</tel:zip>
+    <tel:city>Stalden</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Vétérinaire</tel:category>
+    <tel:phone>+41279521130</tel:phone>
+    <tel:extra type="Mobile">+41794527978</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:39c1e12c912a974f</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">OSTÉOPATHIE pour ANIMAUX -</title>
+    <content type="text">OSTÉOPATHIE pour ANIMAUX -
+    Camille Herbillon
+    D.O.A - Chien, Chat, Cheval, Vache Cabinet
+    Place Beaulieu 1
+    3960 Sierre VS
+    *027 455 23 42</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/sierre/place-beaulieu-1/osteopathie-pour-animaux" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/OSTEOPATHIE-pour-ANIMAUX--.vcf?key=39c1e12c912a974f" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=39c1e12c912a974f" rel="edit" type="text/html" />
+    <tel:pos>27</tel:pos>
+    <tel:id>39c1e12c912a974f</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>OSTÉOPATHIE pour ANIMAUX -</tel:name>
+    <tel:subname>Camille Herbillon</tel:subname>
+    <tel:occupation>D.O.A - Chien, Chat, Cheval, Vache Cabinet</tel:occupation>
+    <tel:street>Place Beaulieu</tel:street>
+    <tel:streetno>1</tel:streetno>
+    <tel:zip>3960</tel:zip>
+    <tel:city>Sierre</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Ostéopathie pour animaux</tel:category>
+    <tel:category>Service vétérinaire</tel:category>
+    <tel:category>Phytothérapie (Thérapie à base de plantes)</tel:category>
+    <tel:phone>+41274552342</tel:phone>
+    <tel:extra type="ou au">+41788818848</tel:extra>
+    <tel:extra type="website">http://www.helene.macaire.vetosteo.eu/</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:e77e35bfcb2ff705</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Bonvin Constantin Rose-Marie</title>
+    <content type="text">Bonvin Constantin Rose-Marie
+    médecin-vétérinaire
+    Rue du Grand'Place 2
+    3963 Crans-Montana VS
+    *027 480 23 45</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/crans-montana/rue-du-grandplace-2/rose-marie-bonvin-constantin" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Bonvin-Constantin.vcf?key=e77e35bfcb2ff705" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=e77e35bfcb2ff705" rel="edit" type="text/html" />
+    <tel:pos>28</tel:pos>
+    <tel:id>e77e35bfcb2ff705</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Bonvin Constantin</tel:name>
+    <tel:firstname>Rose-Marie</tel:firstname>
+    <tel:occupation>médecin-vétérinaire</tel:occupation>
+    <tel:street>Rue du Grand'Place</tel:street>
+    <tel:streetno>2</tel:streetno>
+    <tel:zip>3963</tel:zip>
+    <tel:city>Crans-Montana</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:phone>+41274802345</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:b8d992605ce0209f</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Boucherie La Vallée</title>
+    <content type="text">Boucherie La Vallée
+    Zufferey Gilbert
+    Route de la Fusion 8
+    3961 Vissoie VS
+    *027 475 26 22</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/vissoie/route-de-la-fusion-8/la-vallee-boucherie" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Boucherie.vcf?key=b8d992605ce0209f" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=b8d992605ce0209f" rel="edit" type="text/html" />
+    <tel:pos>29</tel:pos>
+    <tel:id>b8d992605ce0209f</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Boucherie</tel:name>
+    <tel:firstname>La Vallée</tel:firstname>
+    <tel:occupation>Zufferey Gilbert</tel:occupation>
+    <tel:street>Route de la Fusion</tel:street>
+    <tel:streetno>8</tel:streetno>
+    <tel:zip>3961</tel:zip>
+    <tel:city>Vissoie</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Boucherie</tel:category>
+    <tel:category>Charcuterie</tel:category>
+    <tel:phone>+41274752622</tel:phone>
+    <tel:extra type="Fax">+41274752615</tel:extra>
+    <tel:extra type="email">bouchvallee@bluewin.ch</tel:extra>
+    <tel:extra type="website">https://www.boucheriedelavallee.ch/</tel:extra>
+    <tel:businesslink>http://tel.search.ch/vissoie/route-de-la-fusion-8/la-vallee-boucherie</tel:businesslink>
+  </entry>
+  <entry>
+    <id>urn:uuid:3aff5fa71086d8d8</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Villiger Walter</title>
+    <content type="text">Villiger Walter
+    méd.-vétérinaire
+    Avenue du Simplon 44
+    1870 Monthey VS
+    *024 471 74 68</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/monthey/avenue-du-simplon-44/walter-villiger" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Villiger.vcf?key=3aff5fa71086d8d8" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=3aff5fa71086d8d8" rel="edit" type="text/html" />
+    <tel:pos>30</tel:pos>
+    <tel:id>3aff5fa71086d8d8</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Villiger</tel:name>
+    <tel:firstname>Walter</tel:firstname>
+    <tel:occupation>méd.-vétérinaire</tel:occupation>
+    <tel:street>Avenue du Simplon</tel:street>
+    <tel:streetno>44</tel:streetno>
+    <tel:zip>1870</tel:zip>
+    <tel:city>Monthey</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:phone>+41244717468</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:1d13e3571c61c106</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Gex-Collet Yves</title>
+    <content type="text">Gex-Collet Yves
+    Physiothérapeute, Etiopathe, Kinésiologie MKB
+    Avenue de la Gare 36
+    1870 Monthey VS
+    024 471 64 40</content>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/monthey/avenue-de-la-gare-36/yves-gex-collet-2" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Gex-Collet.vcf?key=1d13e3571c61c106" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=1d13e3571c61c106" rel="edit" type="text/html" />
+    <tel:pos>31</tel:pos>
+    <tel:id>1d13e3571c61c106</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Gex-Collet</tel:name>
+    <tel:firstname>Yves</tel:firstname>
+    <tel:occupation>Physiothérapeute, Etiopathe, Kinésiologie MKB</tel:occupation>
+    <tel:street>Avenue de la Gare</tel:street>
+    <tel:streetno>36</tel:streetno>
+    <tel:zip>1870</tel:zip>
+    <tel:city>Monthey</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Ostéopathie</tel:category>
+    <tel:category>Kinésiologie</tel:category>
+    <tel:category>Physiothérapie</tel:category>
+    <tel:phone>+41244716440</tel:phone>
+    <tel:businesslink>http://tel.search.ch/monthey/avenue-de-la-gare-36/yves-gex-collet-2</tel:businesslink>
+  </entry>
+  <entry>
+    <id>urn:uuid:f03617e57256e2f0</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Move physio animale</title>
+    <content type="text">Move physio animale
+    Pittet Florence
+    Consultations à Sion et Riddes
+    Batterie de Barra 459
+    1974 Arbaz VS
+    *079 791 06 61</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/arbaz/batterie-de-barra-459/move-physio-animale" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Move-physio-animale.vcf?key=f03617e57256e2f0" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=f03617e57256e2f0" rel="edit" type="text/html" />
+    <tel:pos>32</tel:pos>
+    <tel:id>f03617e57256e2f0</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Move physio animale</tel:name>
+    <tel:subname>Pittet Florence</tel:subname>
+    <tel:occupation>Consultations à Sion et Riddes</tel:occupation>
+    <tel:street>Batterie de Barra</tel:street>
+    <tel:streetno>459</tel:streetno>
+    <tel:zip>1974</tel:zip>
+    <tel:city>Arbaz</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Physiothérapie pour animaux</tel:category>
+    <tel:category>Soins d'animaux</tel:category>
+    <tel:phone>+41797910661</tel:phone>
+    <tel:extra type="website">https://movephysioanimale.com</tel:extra>
+    <tel:extra type="website">https://www.facebook.com/movephysioanimale?__tn__=kC-R&amp;eid=ARDEUIZZSGQoLgSKnxPFN5Cm_UJ9ANx7NABoxBswVub4MsPoNUVxqbM9KEVeq4_Zc2tZ01zPIC2wjjML&amp;hc_ref=ARTMxJvlMg2QyUc36jaQq13yhfnBzTVzBzqxP7fm1JMdGu9tlC6ydvSMexaOl3tW1sQ&amp;fref=nf&amp;__xts__[0]=68.ARDB0bYXzoae00Ia9f0YFVigvNdfFMe0uNsUiDK2roD0Zckqiuu3UdlAd18REIABXKH7K2ruopIRL0-9JEVS2W-GLvX1WipXXDjE2XHn7zdMfczwHAzH2AKH59LJv-FNN6_d6GC4iaG51svWSBzCJrbUYzsmlrBmPqKKcykeEIez36uXHRZ_dSbOSRMcr-eqq7E4YPSqUhoJLAFOgNYP6ubXyJyuSVWFjBlicYZARAXtLBbVsIMqgBHYAAwfba6yqJ9oIbT93qV2zs00UFEIlsREsrw1BpNGpishdaKOpdx9_Qyf0iZcjb5W28M0zsbBZ-k</tel:extra>
+    <tel:businesslink>http://tel.search.ch/arbaz/batterie-de-barra-459/move-physio-animale</tel:businesslink>
+  </entry>
+  <entry>
+    <id>urn:uuid:de784ab2cc63fd5a</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">SC Catsitting-Services</title>
+    <content type="text">SC Catsitting-Services
+    Les Vieilles Chenevières 74
+    1897 Bouveret VS
+    *079 846 33 96</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/bouveret/les-vieilles-chenevieres-74/sc-catsitting-services" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/SC-Catsitting-Services.vcf?key=de784ab2cc63fd5a" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=de784ab2cc63fd5a" rel="edit" type="text/html" />
+    <tel:pos>33</tel:pos>
+    <tel:id>de784ab2cc63fd5a</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>SC Catsitting-Services</tel:name>
+    <tel:street>Les Vieilles Chenevières</tel:street>
+    <tel:streetno>74</tel:streetno>
+    <tel:zip>1897</tel:zip>
+    <tel:city>Bouveret</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Pet Sitting Garde d'animaux</tel:category>
+    <tel:category>Alimentation animale</tel:category>
+    <tel:phone>+41798463396</tel:phone>
+    <tel:extra type="email">sccatsittingservices@gmail.com</tel:extra>
+    <tel:extra type="website">http://www.sccatsitting-services.ch</tel:extra>
+    <tel:extra type="website">https://www.facebook.com/www.animanutrifit.ch</tel:extra>
+    <tel:extra type="website">https://www.instagram.com/sccatsitting?hl=fr</tel:extra>
+    <tel:extra type="website">https://www.instagram.com/sccatsitting/?hl=fr</tel:extra>
+    <tel:businesslink>http://tel.search.ch/bouveret/les-vieilles-chenevieres-74/sc-catsitting-services</tel:businesslink>
+  </entry>
+  <entry>
+    <id>urn:uuid:9699914ef2670e69</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Wenger, Sarah</title>
+    <content type="text">Wenger, Sarah
+    vétérinaire
+    Rue de l'Alambic 32
+    1958 Uvrier VS
+    *079 961 97 63</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/uvrier/rue-de-lalambic-32/sarah-wenger" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Wenger.vcf?key=9699914ef2670e69" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=9699914ef2670e69" rel="edit" type="text/html" />
+    <tel:pos>34</tel:pos>
+    <tel:id>9699914ef2670e69</tel:id>
+    <tel:type>Person</tel:type>
+    <tel:name>Wenger</tel:name>
+    <tel:firstname>Sarah</tel:firstname>
+    <tel:occupation>vétérinaire</tel:occupation>
+    <tel:street>Rue de l'Alambic</tel:street>
+    <tel:streetno>32</tel:streetno>
+    <tel:zip>1958</tel:zip>
+    <tel:city>Uvrier</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:phone>+41799619763</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:9ea76a3926dd5ac5</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Bouille Jean-François</title>
+    <content type="text">Bouille Jean-François
+    vétérinaire animaux de rente
+    1981 Vex VS
+    *079 433 36 60</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/vex/-/jean-francois-bouille-2" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Bouille.vcf?key=9ea76a3926dd5ac5" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=9ea76a3926dd5ac5" rel="edit" type="text/html" />
+    <tel:pos>35</tel:pos>
+    <tel:id>9ea76a3926dd5ac5</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Bouille</tel:name>
+    <tel:firstname>Jean-François</tel:firstname>
+    <tel:occupation>vétérinaire animaux de rente</tel:occupation>
+    <tel:zip>1981</tel:zip>
+    <tel:city>Vex</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:phone>+41794333660</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:9604d89884735ee7</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Vétérin'Alpe</title>
+    <content type="text">Vétérin'Alpe
+    Christine Lüthi
+    consultation vétérinaire à domicile uniquement
+    Route du Chablais 70
+    1869 Massongex VS
+    *079 394 07 16</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/massongex/route-du-chablais-70/veterinalpe" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/VeterinAlpe.vcf?key=9604d89884735ee7" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=9604d89884735ee7" rel="edit" type="text/html" />
+    <tel:pos>36</tel:pos>
+    <tel:id>9604d89884735ee7</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Vétérin'Alpe</tel:name>
+    <tel:subname>Christine Lüthi</tel:subname>
+    <tel:occupation>consultation vétérinaire à domicile uniquement</tel:occupation>
+    <tel:street>Route du Chablais</tel:street>
+    <tel:streetno>70</tel:streetno>
+    <tel:zip>1869</tel:zip>
+    <tel:city>Massongex</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:phone>+41793940716</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:40cb81a872e3d902</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Schmid, Elvira</title>
+    <content type="text">Schmid, Elvira
+    médecin-vétérinaire
+    Rue du Stade 100
+    1926 Fully VS
+    *027 746 30 30</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/fully/rue-du-stade-100/elvira-schmid-5" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Schmid.vcf?key=40cb81a872e3d902" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=40cb81a872e3d902" rel="edit" type="text/html" />
+    <tel:pos>37</tel:pos>
+    <tel:id>40cb81a872e3d902</tel:id>
+    <tel:type>Person</tel:type>
+    <tel:name>Schmid</tel:name>
+    <tel:firstname>Elvira</tel:firstname>
+    <tel:occupation>médecin-vétérinaire</tel:occupation>
+    <tel:street>Rue du Stade</tel:street>
+    <tel:streetno>100</tel:streetno>
+    <tel:zip>1926</tel:zip>
+    <tel:city>Fully</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:phone>+41277463030</tel:phone>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:b1ea8cf6cbf9ad04</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Michelet, Jean-François</title>
+    <content type="text">Michelet, Jean-François
+    vétérinaire
+    Route de Nendaz 12
+    1996 Baar (Nendaz) VS
+    027 207 50 07</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/baar/route-de-nendaz-12/jean-francois-michelet-2" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Michelet.vcf?key=b1ea8cf6cbf9ad04" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=b1ea8cf6cbf9ad04" rel="edit" type="text/html" />
+    <tel:pos>38</tel:pos>
+    <tel:id>b1ea8cf6cbf9ad04</tel:id>
+    <tel:type>Person</tel:type>
+    <tel:name>Michelet</tel:name>
+    <tel:firstname>Jean-François</tel:firstname>
+    <tel:occupation>vétérinaire</tel:occupation>
+    <tel:street>Route de Nendaz</tel:street>
+    <tel:streetno>12</tel:streetno>
+    <tel:zip>1996</tel:zip>
+    <tel:city>Baar (Nendaz)</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:phone>+41272075007</tel:phone>
+    <tel:extra type="Mobile">+41786259688</tel:extra>
+    <tel:extra type="Fax">+41272075004</tel:extra>
+    <tel:extra type="email">jfmichelet@gmail.com*</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:cb93fefa840772a1</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Délèze, Christian et Julie</title>
+    <content type="text">Délèze, Christian et Julie
+    agriculteur et vétérinaire
+    Chemin des Bioleys 3
+    1997 Sornard (Nendaz) VS
+    *027 288 23 39</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/sornard/chemin-des-bioleys-3/christian-et-julie-deleze" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Deleze.vcf?key=cb93fefa840772a1" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=cb93fefa840772a1" rel="edit" type="text/html" />
+    <tel:pos>39</tel:pos>
+    <tel:id>cb93fefa840772a1</tel:id>
+    <tel:type>Person</tel:type>
+    <tel:name>Délèze</tel:name>
+    <tel:firstname>Christian et Julie</tel:firstname>
+    <tel:occupation>agriculteur et vétérinaire</tel:occupation>
+    <tel:street>Chemin des Bioleys</tel:street>
+    <tel:streetno>3</tel:streetno>
+    <tel:zip>1997</tel:zip>
+    <tel:city>Sornard (Nendaz)</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:phone>+41272882339</tel:phone>
+    <tel:extra type="Christian Mobile">+41793010815</tel:extra>
+    <tel:extra type="Julie Mobile">+41793482956</tel:extra>
+    <tel:copyright>Données : Swisscom Directories SA</tel:copyright>
+  </entry>
+  <entry>
+    <id>urn:uuid:3e819f074505f18b</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">D. Machoud - Pharmacie</title>
+    <content type="text">D. Machoud - Pharmacie
+    Rue du Scex 2
+    1950 Sion VS
+    *027 322 12 34</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/sion/rue-du-scex-2/d-machoud-pharmacie" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/D-Machoud---Pharmacie.vcf?key=3e819f074505f18b" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=3e819f074505f18b" rel="edit" type="text/html" />
+    <tel:pos>40</tel:pos>
+    <tel:id>3e819f074505f18b</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>D. Machoud - Pharmacie</tel:name>
+    <tel:street>Rue du Scex</tel:street>
+    <tel:streetno>2</tel:streetno>
+    <tel:zip>1950</tel:zip>
+    <tel:city>Sion</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Pharmacie</tel:category>
+    <tel:category>Aromathérapie</tel:category>
+    <tel:category>Homéopathie (hors rubrique médecins)</tel:category>
+    <tel:category>Fleurs de Bach</tel:category>
+    <tel:phone>+41273221234</tel:phone>
+    <tel:extra type="Fax">+41273222343</tel:extra>
+    <tel:extra type="website">http://www.pharmacie-sion.ch</tel:extra>
+    <tel:extra type="website">https://www.facebook.com/Pharmacie-Machoud-343373929862257?modal=admin_todo_tour</tel:extra>
+    <tel:businesslink>http://tel.search.ch/sion/rue-du-scex-2/d-machoud-pharmacie</tel:businesslink>
+  </entry>
+  <entry>
+    <id>urn:uuid:d8c2547d31ed6012</id>
+    <updated>2020-12-14T03:00:00Z</updated>
+    <published>2020-12-14T03:00:00Z</published>
+    <title type="text">Droguerie de Valère</title>
+    <content type="text">Droguerie de Valère
+    Anciennement Droguerie de la Matze
+    Rue de la Dent-Blanche 8
+    1950 Sion VS
+    *027 322 38 89</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="http://tel.search.ch/sion/rue-de-la-dent-blanche-8/droguerie-de-valere" title="Details" rel="alternate" type="text/html" />
+    <link href="http://tel.search.ch/vcard/Droguerie-de-Valere.vcf?key=d8c2547d31ed6012" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="http://tel.search.ch/edit/?id=d8c2547d31ed6012" rel="edit" type="text/html" />
+    <tel:pos>41</tel:pos>
+    <tel:id>d8c2547d31ed6012</tel:id>
+    <tel:type>Organisation</tel:type>
+    <tel:name>Droguerie de Valère</tel:name>
+    <tel:occupation>Anciennement Droguerie de la Matze</tel:occupation>
+    <tel:street>Rue de la Dent-Blanche</tel:street>
+    <tel:streetno>8</tel:streetno>
+    <tel:zip>1950</tel:zip>
+    <tel:city>Sion</tel:city>
+    <tel:canton>VS</tel:canton>
+    <tel:country>ch</tel:country>
+    <tel:category>Droguerie</tel:category>
+    <tel:category>Homéopathie (hors rubrique médecins)</tel:category>
+    <tel:category>Herboristerie</tel:category>
+    <tel:category>Spagyrie</tel:category>
+    <tel:category>Thérapie naturelle, naturopathie</tel:category>
+    <tel:phone>+41273223889</tel:phone>
+    <tel:extra type="Fax">+41273225489</tel:extra>
+    <tel:extra type="email">info@droguiste.net*</tel:extra>
+    <tel:extra type="website">http://www.droguiste.net</tel:extra>
+    <tel:extra type="website">https://www.facebook.com/dr.valere</tel:extra>
+    <tel:businesslink>http://tel.search.ch/sion/rue-de-la-dent-blanche-8/droguerie-de-valere</tel:businesslink>
+  </entry>
+</feed>
