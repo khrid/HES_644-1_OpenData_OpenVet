@@ -34,10 +34,11 @@ class Database
 
     public function insertVet($name, $street, $city, $phone, $email){
 
-        $sql = "INSERT INTO vet (name, street, city, phone, email) VALUES ('$name','$street','$city','$phone','$email')";
+        //$sql = "INSERT INTO vet (name, street, city, phone, email) VALUES ('$name','$street','$city','$phone','$email')";
+        //$this->_pdo->query($sql);
 
-        $this->_pdo->query($sql);
-
+        $stmt = $this->_pdo->prepare("INSERT INTO vet (name, street, city, phone, email) VALUES (:name, :street, :city, :phone, :email)");
+        $stmt->execute(array(':name' => $name, ':street' => $street, ':city' => $city, ':phone' => $phone, ':email' => $email));
         //echo "Vet inserted<br />";
 
     }
