@@ -17,14 +17,20 @@ class Database
             $this->_user = explode("|", $content)[0];
             $this->_passwd = explode("|", $content)[1];
             if($_SERVER["HTTP_HOST"] == "localhost") {
-                $this->_dsn = "mysql:host=openvet.tk;dbname=openvet";
-            } else {
                 $this->_dsn = "mysql:host=localhost;dbname=openvet";
+            } else {
+                $this->_dsn = "mysql:host=openvet.tk;dbname=openvet";
             }
 
-            $this->_pdo = new PDO($this->_dsn, $this->_user, $this->_passwd);
-            //echo "Connected to the database<br />";
+            try {
+                $this->_pdo = new PDO($this->_dsn, $this->_user, $this->_passwd,
+                                    array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION));
+            } catch (PDOException $e) {
+                die(json_encode(array('outcome' => false, 'message' => 'Unable to connect')));
+            }
 
+            //echo "Connected to the database<br />";
+            //echo "Test david 3";
             /*$stmt = $this->_pdo->query("SELECT * FROM vet");
             while ($row = $stmt->fetch()) {
                 echo $row['name']." ".$row['subname']."<br />\n";
@@ -90,6 +96,22 @@ class Database
     public function displayCitiesCount(){
         $stmt = $this->_pdo->query("SELECT COUNT(DISTINCT city) as citiescount FROM vet");
         echo "<strong>".$stmt->fetch()['citiescount']."</strong>";
+    }
+
+    public function vetsToJson() {
+        $stmt = $this->_pdo->query("SELECT * FROM vet ORDER BY name");
+        $vets = array();
+        while ($row = $stmt->fetch()) {
+            $vet = array();
+            $vet['name'] = ($row['name']);
+            $vet['street'] = $row['street'];
+            $vet['city'] = $row['city'];
+            $vet['phone'] = $row['phone'];
+
+            array_push($vets,$vet);
+        }
+        return json_encode($vets,JSON_FORCE_OBJECT|JSON_UNESCAPED_UNICODE|JSON_PRETTY_PRINT);
+
     }
 
 }
