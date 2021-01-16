@@ -30,6 +30,60 @@ $database = new Database();
 
     <link rel="stylesheet" href="assets/css/templatemo-softy-pinko.css">
 
+    <script>
+        var geocoder;
+        var map;
+        var address = "groupe mutuel martigny";
+        function initMap() {
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 10,
+                center: {lat: 46.1833, lng: 7.5833}
+            });
+            geocoder = new google.maps.Geocoder();
+
+            $.ajax({
+                url: "ajax.php?target=vetstojson",
+                datatype: "json",
+                crossDomain: true,
+                success: function (data) {
+                    //alert(data);
+                    var vets = JSON.parse(data);
+                    //console.log(vets);
+                    for (let i in vets) {
+                        var vet = vets[i];
+                        codeAddress(vet, geocoder, map);
+                        // TODO fix geocoding limit + store vet lat and lng in db
+                    }
+                }
+            });
+        }
+
+        function codeAddress(vet, geocoder, map) {
+            geocoder.geocode({'address': vet.name + " " + vet.street + " " + vet.city}, function(results, status) {
+                if (status === 'OK') {
+                    //map.setCenter(results[0].geometry.location);
+                    const infowindow = new google.maps.InfoWindow({
+                        content: "<b>"+vet.name + "</b><br/> " + vet.street + "<br/>" + vet.city+
+                            "<br/><br/>Tel: " + vet.phone,
+                    });
+                    var marker = new google.maps.Marker({
+                        map: map,
+                        position: results[0].geometry.location,
+                        title: vet.name
+                    });
+                    marker.addListener("click", () => {
+                        infowindow.open(map, marker);
+                    });
+                } else {
+                    //alert('Geocode was not successful for the following reason: ' + status);
+                }
+            });
+        }
+    </script>
+    <script async defer
+            src=https://maps.googleapis.com/maps/api/js?key=AIzaSyDvALHpLikMI2sPGihN6RAxrq-q9wDQkDc&callback=initMap&libraries=&v=weekly">
+    </script>
+
 </head>
 
 <body>
@@ -172,6 +226,31 @@ $database = new Database();
 
 
         </div>
+
+    </div>
+</section>
+<!-- ***** Testimonials End ***** -->
+
+
+<!-- ***** Testimonials Start ***** -->
+<section class="section" id="testimonials">
+    <div class="container">
+        <!-- ***** Section Title Start ***** -->
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="center-heading">
+                    <h2 class="section-title">Carte</h2>
+                </div>
+            </div>
+
+        </div>
+        <!-- ***** Section Title End ***** -->
+
+        <div class="row">
+
+            <div id="map"></div>
+        </div>
+
     </div>
 </section>
 <!-- ***** Testimonials End ***** -->

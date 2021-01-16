@@ -8,7 +8,7 @@ class ApiTelSearch
     {
         $content = file_get_contents(self::API_KEY_LOCATION);
         if(strlen($content) > 0) {
-            $this->_api_key = $content;
+            $this->_api_key = trim($content);
         }
     }
 
